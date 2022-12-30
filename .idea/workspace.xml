@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="Hackerrank">
-      <change afterPath="$PROJECT_DIR$/ucakBiletiFiyat/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ucakBiletiFiyat/ucakBiletiFiyat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="Uçak Bileti Fiyatı Hesaplama">
+      <change afterPath="$PROJECT_DIR$/cinZodyagiHesaplama/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,7 @@
       <updated>1672317511484</updated>
       <workItem from="1672317513009" duration="5753000" />
       <workItem from="1672335763848" duration="314000" />
-      <workItem from="1672380003490" duration="3330000" />
+      <workItem from="1672380003490" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="BurçBulma">
       <created>1672319794574</created>
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672320436236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uçak Bileti Fiyatı Hesaplama">
+      <created>1672386891132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672386891132</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BurçBulma" />
     <MESSAGE value="Hackerrank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hackerrank" />
+    <MESSAGE value="Uçak Bileti Fiyatı Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uçak Bileti Fiyatı Hesaplama" />
   </component>
 </project>

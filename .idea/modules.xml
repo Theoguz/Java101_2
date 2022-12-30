@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java101_2.iml" filepath="$PROJECT_DIR$/Java101_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/burcBulmaApp/burcBulmaApp.iml" filepath="$PROJECT_DIR$/burcBulmaApp/burcBulmaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinZodyagiHesaplama/cinZodyagiHesaplama.iml" filepath="$PROJECT_DIR$/cinZodyagiHesaplama/cinZodyagiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerRank2/hackerRank2.iml" filepath="$PROJECT_DIR$/hackerRank2/hackerRank2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucakBiletiFiyat/ucakBiletiFiyat.iml" filepath="$PROJECT_DIR$/ucakBiletiFiyat/ucakBiletiFiyat.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
