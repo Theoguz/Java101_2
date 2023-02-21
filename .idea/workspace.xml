@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="Uçak Bileti Fiyatı Hesaplama">
-      <change afterPath="$PROJECT_DIR$/cinZodyagiHesaplama/src/Main.java" afterDir="false" />
+    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="Çin Zodyağı Hesaplama">
+      <change afterPath="$PROJECT_DIR$/artikyil/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +17,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9fc945fb-f92a-4f29-b0d8-144f5ed0b964" />
+        <option name="url" value="https://github.com/Theoguz/Java101_2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/burcBulmaApp/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cinZodyagiHesaplama/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,19 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/Oguz/IdeaProjects/Java101_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main (1)">
+}]]></component>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ucakBiletiFiyat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="artikyil" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -66,7 +97,13 @@
       <updated>1672317511484</updated>
       <workItem from="1672317513009" duration="5753000" />
       <workItem from="1672335763848" duration="314000" />
-      <workItem from="1672380003490" duration="4548000" />
+      <workItem from="1672380003490" duration="6179000" />
+      <workItem from="1672851889930" duration="2775000" />
+      <workItem from="1675457432471" duration="931000" />
+      <workItem from="1675767045326" duration="1147000" />
+      <workItem from="1675839339226" duration="1132000" />
+      <workItem from="1676014850951" duration="716000" />
+      <workItem from="1676983187994" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="BurçBulma">
       <created>1672319794574</created>
@@ -96,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672386891132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Çin Zodyağı Hesaplama">
+      <created>1672388173241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672388173241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +161,7 @@
     <MESSAGE value="BurçBulma" />
     <MESSAGE value="Hackerrank" />
     <MESSAGE value="Uçak Bileti Fiyatı Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uçak Bileti Fiyatı Hesaplama" />
+    <MESSAGE value="Çin Zodyağı Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Çin Zodyağı Hesaplama" />
   </component>
 </project>
