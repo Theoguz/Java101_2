@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="Çin Zodyağı Hesaplama">
-      <change afterPath="$PROJECT_DIR$/artikyil/src/Main.java" afterDir="false" />
+    <list default="true" id="21a5e533-a347-465a-9703-4d6f9506f605" name="Changes" comment="artık yıl hesaplama">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucakBiletiFiyat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ucakBiletiFiyat/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +17,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -43,21 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/Oguz/IdeaProjects/Java101_2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Oguz/IdeaProjects/Java101_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
+}</component>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ucakBiletiFiyat" />
@@ -72,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ortalamahesaplama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="burcBulmaApp" />
@@ -81,8 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -103,7 +112,15 @@
       <workItem from="1675767045326" duration="1147000" />
       <workItem from="1675839339226" duration="1132000" />
       <workItem from="1676014850951" duration="716000" />
-      <workItem from="1676983187994" duration="1540000" />
+      <workItem from="1676983187994" duration="3884000" />
+      <workItem from="1677044623560" duration="595000" />
+      <workItem from="1677062410895" duration="2000" />
+      <workItem from="1677062591351" duration="112000" />
+      <workItem from="1677063325021" duration="2000" />
+      <workItem from="1677074383100" duration="3000" />
+      <workItem from="1677139166872" duration="802000" />
+      <workItem from="1677501361630" duration="2690000" />
+      <workItem from="1677504092613" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="BurçBulma">
       <created>1672319794574</created>
@@ -140,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672388173241</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="artık yıl hesaplama">
+      <created>1676984788413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984788413</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +186,7 @@
     <MESSAGE value="Hackerrank" />
     <MESSAGE value="Uçak Bileti Fiyatı Hesaplama" />
     <MESSAGE value="Çin Zodyağı Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Çin Zodyağı Hesaplama" />
+    <MESSAGE value="artık yıl hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="artık yıl hesaplama" />
   </component>
 </project>

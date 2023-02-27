@@ -5,7 +5,7 @@ public class Main {
         int mesafe;
         int age;
         int yolculuktip;
-        double ücret = 0;
+        double ucret = 0;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Mesafeyi km türünden giriniz:");
@@ -20,34 +20,27 @@ public class Main {
 
         System.out.println("Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş )");
         yolculuktip = input.nextInt();
-        ücret = mesafe * 0.10;
+        ucret = mesafe * 0.10;
 
         if (age < 12) {
-            ücret = ücret * 0.5;
+            ucret = ucret * 0.5;
 
         } else if (age >= 12 && age <= 24) {
-            ücret -= ücret * 0.10;
+            ucret -= ucret * 0.10;
 
         } else if (age > 65) {
-            ücret -= ücret * 0.3;
+            ucret -= ucret * 0.3;
         } else {
-            ücret = ücret;
+            ucret = ucret;
         }
 
         switch (yolculuktip) {
-            case 1:
-
-                System.out.println("ücret " + ücret);
-
-                break;
-
-            case 2:
-                ücret -= ücret * 0.20;
-                System.out.println("ücret " + 2*ücret);
-
-                break;
-            default:
-                System.out.println("Hatalı giriş yaptınız");
+            case 1 -> System.out.println("ucret " + ucret);
+            case 2 -> {
+                ucret -= ucret * 0.20;
+                System.out.println("ucret " + 2 * ucret);
+            }
+            default -> System.out.println("Hatalı giriş yaptınız");
         }
     }
 }
